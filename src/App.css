@@ -1,0 +1,21 @@
+.overdue {
+  text-decoration: line-through;
+}
+
+html {
+  /* height: 100%; */
+}
+/* body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+} */
+
+main {
+  /* flex: 1; */
+  margin-top: 72px;
+}
+
+/* footer {
+  height: 10vh;
+} */
